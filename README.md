@@ -17,5 +17,6 @@ Et permet de faire une conversation entre les clients connectés et apres le ser
 ![serverchat](https://user-images.githubusercontent.com/102295113/160002590-5a1c624e-f4a7-44dd-9b8f-8a20b49da3b6.png)
 ###Client Chat Javaa FX:
 Puis on a créer l'interface graphique du client jeu en utisant JavaFX :
-    
+![javaFX](https://user-images.githubusercontent.com/102295113/160007253-4c157897-65dd-4917-be8f-ab5041b37c32.jpeg)
+
   
